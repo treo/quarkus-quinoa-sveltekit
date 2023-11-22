@@ -1,4 +1,4 @@
-# quinoa-bowl
+# quinoa + SvelteKit
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -56,9 +56,8 @@ Live code the backend and frontend together with close to no configuration. When
 
 ## Provided Code
 
-### Quinoa
+### SvelteKit Barebones Starter on Quinoa
 
-This is a tiny webpack app to get started with Quinoa. It generates a quinoa.html page and a script.
+This is a tiny webpack app to get started with Quinoa.
 
 [Related guide section...](https://quarkiverse.github.io/quarkiverse-docs/quarkus-quinoa/dev/index.html)
-
